@@ -48,7 +48,7 @@ Taken from [LICENSE](LICENSE).
 
 ## Features same as the original code on GitHub : [4w4k3](https://github.com/4w4k3) ###
 
-### Screenshot: ![Shot](https://github.com/OpSkillFactory/Beelogger/blob/main/Screens/shot.png)
+###Screenshot: ![Shot](https://github.com/OpSkillFactory/Beelogger/blob/main/Screens/shot.png)###
 
 ### Prerequisites
 
@@ -73,4 +73,5 @@ Taken from [LICENSE](LICENSE).
 ## License:
 
 This project is licensed under the BSD-3-Clause - see the [LICENSE](LICENSE) file for details.
+
 Written by: * **Alisson Moretto** - [4w4k3](https://github.com/4w4k3)
